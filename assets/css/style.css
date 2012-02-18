@@ -41,14 +41,14 @@ ol, ul {
 em {
   font-style: italic; }
 
-h1, h2 {
+h1, h2, h3 {
   color: #795d50;
   letter-spacing: 0.12em; }
 
-p {
+p, ul {
   color: #5c5c5c;
   font-size: 1.4em;
-  line-height: 1.8em; }
+  line-height: 1.7em; }
 
 .wrapper {
   background-color: white;
@@ -106,6 +106,9 @@ section.main-content {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     font-size: 1.4em; }
+  section.main-content h3 {
+    font-size: 2em;
+    margin: 30px 0 10px 0; }
   section.main-content p {
     margin-bottom: 20px; }
   section.main-content footer {
@@ -136,7 +139,9 @@ section[role="blog-posts"] figcaption {
   font-style: italic; }
 
 /* --------------------- about me --------------------- */
-section[role="about-me"] img {
+section[role="about-me"] section {
+  margin-bottom: 40px; }
+section[role="about-me"] img.photo {
   float: left;
   -moz-transform: rotate(-2deg);
   -webkit-transform: rotate(-2deg);
@@ -146,25 +151,28 @@ section[role="about-me"] img {
   -webkit-box-shadow: 1px 1px 5px rgba(50, 50, 50, 0.5);
   -moz-box-shadow: 1px 1px 5px rgba(50, 50, 50, 0.5);
   box-shadow: 1px 1px 5px rgba(50, 50, 50, 0.5);
+  width: 25%;
+  height: 25%;
   padding: 10px;
-  margin: 10px 30px 10px 0; }
-section[role="about-me"] .tape {
-  background-color: #cab38b;
-  height: 20px;
-  width: 50px;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=$amount-ms)";
-  filter: alpha(opacity=60);
-  -moz-opacity: 0.6;
-  -khtml-opacity: 0.6;
-  opacity: 0.6;
-  -moz-transform: rotate(-15deg);
-  -webkit-transform: rotate(-15deg);
-  -o-transform: rotate(-15deg);
-  -ms-transform: rotate(-15deg);
-  transform: rotate(-15deg);
-  position: absolute;
-  left: 0;
-  top: 0; }
+  margin: 10px 25px 10px 0; }
+  section[role="about-me"] img.photo:hover {
+    -moz-transform: rotate(1deg);
+    -webkit-transform: rotate(1deg);
+    -o-transform: rotate(1deg);
+    -ms-transform: rotate(1deg);
+    transform: rotate(1deg); }
+section[role="about-me"] a {
+  text-decoration: none;
+  color: #795d50;
+  text-decoration: underline; }
+  section[role="about-me"] a:hover {
+    text-decoration: underline;
+    color: #5c5c5c; }
+section[role="about-me"] ul li {
+  margin-bottom: 5px; }
+  section[role="about-me"] ul li img {
+    float: left;
+    margin: 2px 7px 0 0; }
 
 /* --------------------- page footer --------------------- */
 footer[role="page-footer"] {
