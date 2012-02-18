@@ -102,12 +102,12 @@ section.main-content {
     background-repeat: no-repeat;
     background-position: -3px 50%;
     padding: 12px 10px 12px 50px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
     border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
     font-size: 1.4em; }
   section.main-content p {
-    margin-bottom: 30px; }
+    margin-bottom: 20px; }
   section.main-content footer {
     clear: both;
     border-bottom: dashed 1px #d2d2d2;
@@ -124,9 +124,9 @@ section.main-content {
 section[role="blog-posts"] figure {
   background-color: #e1e1e1;
   padding: 20px 20px 0 20px;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
   border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
   text-align: center;
   margin-bottom: 30px; }
 section[role="blog-posts"] figcaption {
@@ -135,15 +135,36 @@ section[role="blog-posts"] figcaption {
   padding: 1em 0 1.1em 0;
   font-style: italic; }
 
-/* --------------------- work --------------------- */
-section[role="work"] figure img {
+/* --------------------- about me --------------------- */
+section[role="about-me"] img {
   float: left;
-  margin-right: 20px; }
-section[role="work"] figcaption {
-  color: #5c5c5c;
-  font-size: 1.3em;
-  padding: 0;
-  line-height: 1.2em; }
+  -moz-transform: rotate(-2deg);
+  -webkit-transform: rotate(-2deg);
+  -o-transform: rotate(-2deg);
+  -ms-transform: rotate(-2deg);
+  transform: rotate(-2deg);
+  -webkit-box-shadow: 1px 1px 5px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow: 1px 1px 5px rgba(50, 50, 50, 0.5);
+  box-shadow: 1px 1px 5px rgba(50, 50, 50, 0.5);
+  padding: 10px;
+  margin: 10px 30px 10px 0; }
+section[role="about-me"] .tape {
+  background-color: #cab38b;
+  height: 20px;
+  width: 50px;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=$amount-ms)";
+  filter: alpha(opacity=60);
+  -moz-opacity: 0.6;
+  -khtml-opacity: 0.6;
+  opacity: 0.6;
+  -moz-transform: rotate(-15deg);
+  -webkit-transform: rotate(-15deg);
+  -o-transform: rotate(-15deg);
+  -ms-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+  position: absolute;
+  left: 0;
+  top: 0; }
 
 /* --------------------- page footer --------------------- */
 footer[role="page-footer"] {
