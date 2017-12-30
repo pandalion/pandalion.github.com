@@ -1,0 +1,73 @@
+// Custom styles here
+$teal: #168491
+
+body
+    display: flex
+    flex-direction: column
+    min-height: 100vh
+
+a,
+.page-link
+    &,
+    &:visited
+        color: $teal
+
+.site-title,
+.post-title,
+.page-link,
+.post-link,
+.footer-heading
+    font-family: "Roboto Slab", Helvetica, Arial, sans-serif
+
+.site-title
+    // padding-left: 70px
+    &:hover
+        text-decoration: none
+
+.site-header
+    // min-height: auto
+    border-top: none
+
+.page-content
+    flex: 1
+    background-image: url('img/thepandalion-full.png')
+    background-repeat: no-repeat
+    background-position: center bottom
+    background-size: 150px auto
+    padding-bottom: 150px
+
+a.button
+    display: block
+    max-width: 100px
+    margin: 0 auto
+    margin-top: 20px
+    text-decoration: none
+    text-align: center
+    background: white
+    border: 1px solid $teal
+    color: $teal
+    padding: 4px 10px
+    transition: background-color 0.2s linear
+    font-size: 13px
+    &:hover
+        text-decoration: none
+        background-color: $teal
+        color: white
+
+.post-list
+    li
+        &::after
+            content: ''
+            height: 1px
+            width: 60%
+            background: #e8e8e8
+            display: block
+            margin: 0 auto
+            margin-top: 20px
+            margin-bottom: 40px
+        &:last-child
+            &::after
+                content: none
+
+.cp_embed_wrapper
+    margin: 20px 0
