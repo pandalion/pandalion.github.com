@@ -16,7 +16,8 @@ a,
 .post-title,
 .page-link,
 .post-link,
-.footer-heading
+.footer-heading,
+h2
     font-family: "Roboto Slab", Helvetica, Arial, sans-serif
 
 .site-title
@@ -71,3 +72,25 @@ a.button
 
 .cp_embed_wrapper
     margin: 20px 0
+
+// typography overrides
+.post-content
+    h2
+        font-size: 26px
+        margin-bottom: 10px
+
+.post-2col
+    display: flex
+    align-items: flex-start
+    flex-direction: row
+    @include media-query($on-palm)
+        flex-direction: column
+
+.post-thumbnail
+    float: left
+    width: 40%
+    padding-right: 20px
+    @include media-query($on-palm)
+        float: none
+        width: 100%
+        padding-right: 0
