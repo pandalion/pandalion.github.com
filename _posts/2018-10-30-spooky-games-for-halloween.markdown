@@ -19,7 +19,7 @@ And there's something in the woods.&rquo; - nightinthewoods.com
 
 ## Detention
 
-<p class="post-meta">Platform: Steam/PS4/Switch • Developer: Red Candle Games • <a href="#">Detention on Steam</a></p>
+<p class="post-meta">Platform: Steam/PS4/Switch • Developer: Red Candle Games • <a href="https://store.steampowered.com/app/555220/Detention/">Detention on Steam</a></p>
 
 <img src="/assets/img/horizon.jpg" class="post-thumbnail" alt="Detention screenshot">
 
@@ -35,21 +35,24 @@ Fran Bow is one of my favourite point and click adventures of recent years. Its 
 
 ## Costume Quest
 
-<p class="post-meta">Platform: Playstation 4 • Developer: <a href="https://www.naughtydog.com/">Naughty Dog</a> • Released: August 2017</p>
+<p class="post-meta">Platform: Previous-gen consoles and Steam • Developer: Double Fine Productions • <a href="https://store.steampowered.com/app/115100/Costume_Quest/">Costume Quest on Steam</a></p>
 
 <img src="/assets/img/uncharted.jpg" class="post-thumbnail" alt="Uncharted: The Lost Legacy screenshot">
 
 Probably the least spooky game on this list, but the most apt for Halloween, Costume Quest is a whimsical, bright, gorgeous-looking little RPG, from the excellent talent at Double Fine Productions. Choose to play as twin Reynold or Wren, as they go trick-or-treating on Halloween. This game is full of candy, costumes, and the funny writing we've come to expect from Tim Schafer games. One of the best bits of this game is the battles where you transform from a little kid in a sheet to a fully-fledged monster with awesome skills, transformer-wise. This game is fairly easy, so don't expect a challenge, but expect a really fun and charming Halloween adventure!
 
-##
+## Stories Untold
 
-<p class="post-meta">Platform: Microsoft Windows, macOS, iOS, Xbox One, PlayStation 4, Linux, Android, and Nintendo Switch (phew!) • Developer: <a href="https://en.wikipedia.org/wiki/Ron_Gilbert/">Ron Gilbert</a> and <a href="https://en.wikipedia.org/wiki/Gary_Winnick_(game_developer)">Gary Winnick</a> • Released: Various 2017</p>
+<p class="post-meta">Steam (macOS and Windows) • Developer: No Code • <a href="https://store.steampowered.com/app/558420/Stories_Untold/">Stories Untold on Steam</a></p>
 
 <img src="/assets/img/Thimbleweed-Park-Cover.jpg" alt="Thimbleweed Park cover">
 
-Thimbleweed Park is a game that captures the very essence of a LucasArts point-and-click classic adventure game. Hardly a surprise when the game was developed by the designers of Maniac Mansion and The Secret of Monkey Island, and is very much a spiritual successor to those games. The Secret of Monkey Island is possibly my favourite videogame ever, and I credit <a href="https://en.wikipedia.org/wiki/Ron_Gilbert/">Ron Gilbert</a> with being one of the reasons I am into videogames as much as I am today. If you ever wanted a game that felt today like playing Monkey Island felt back in the day, this is it.
+The only game on this list I've not played yet, but am planning to play this Halloween week, Stories Untold is currently just £1.74 on Steam so I recommend picking it up if it sounds interesting to you! An episodic horror adventure-puzzle game, I don't know a lot about what the gameplay entails yet, but I am intrigued by the few screenshots and title art alone, it looks like something really unique, and I love to find little indie games that are a bit out there and different.
 
-Graphically, it resembles an old point-and-click adventure, but clearly updated to feel like how you <em>remembered</em> those old-school adventures, with little details that make it visually a treat to look at, whilst still retro. It's humorous, with an intriguing Twin Peaks vibe. You switch between multiple characters - Maniac Mansion style, and investigate the mystery of Thimbleweed Park. In my opinion this game is the successor to Monkey Island that we've been waiting for for years (The Cave was good but not quite right, and 3d adventure games never quite felt the same to me). I may just be a massive Ron Gilbert fangirl, but Thimbleweed Park is a modern day classic point-and-click adventure. I loved it. <a href="http://store.steampowered.com/app/569860/Thimbleweed_Park/">Thimbleweed Park on Steam</a>.
+### Honorable creepy or eerie mentions:
 
-
-Others - Don't Starve, Subnautica, Sunless Sea, Stories Untold,
+- Don't Starve
+- Subnautica
+- Sunless Sea
+- The Binding of Isaac
+- Cult Simulator
