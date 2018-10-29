@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spooky games for Halloween"
-date:   2018-10-30 22:00:00 +0000
+date:   2018-10-29 22:00:00 +0000
 categories: videogames
 ---
 
