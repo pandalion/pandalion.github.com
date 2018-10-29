@@ -9,7 +9,7 @@ I love spooky and eerie things all year round, but Halloween is an especially gr
 
 ## Night in the Woods
 
-<p class="post-meta">Platform: Steam/PS4/Switch/more • Developed by: Finji • <a href="http://www.nightinthewoods.com/">nightinthewoods.com</a></p>
+<p class="post-meta">Platform: Steam/PS4/Switch/more • Developed by: Finji • <a href="http://www.nightinthewoods.com/" class="hallow">nightinthewoods.com</a></p>
 
 <img src="/assets/img/nightinthewoods.jpg" class="post-thumbnail" alt="Night in the Woods screenshot">
 
@@ -19,7 +19,7 @@ And there's something in the woods."* - nightinthewoods.com
 
 ## Detention
 
-<p class="post-meta">Platform: Steam/PS4/Switch • Developer: Red Candle Games • <a href="https://store.steampowered.com/app/555220/Detention/">Detention on Steam</a></p>
+<p class="post-meta">Platform: Steam/PS4/Switch • Developer: Red Candle Games • <a href="https://store.steampowered.com/app/555220/Detention/" class="hallow">Detention on Steam</a></p>
 
 <img src="/assets/img/detention.jpg" class="post-thumbnail" alt="Detention screenshot">
 
@@ -27,7 +27,7 @@ Detention is a Taiwanese horror adventure game, set in 1960s Taiwan under martia
 
 ## Fran Bow
 
-<p class="post-meta">Platform: Steam • Developer: Killmonday Games • <a href="http://franbow.com">franbow.com</a></p>
+<p class="post-meta">Platform: Steam • Developer: Killmonday Games • <a href="http://franbow.com" class="hallow">franbow.com</a></p>
 
 <img src="/assets/img/franbow.png" class="post-thumbnail" alt="Fran Bow">
 
@@ -35,7 +35,7 @@ Fran Bow is one of my favourite point and click adventures of recent years. Its 
 
 ## Costume Quest
 
-<p class="post-meta">Platform: Previous-gen consoles and Steam • Developer: Double Fine Productions • <a href="https://store.steampowered.com/app/115100/Costume_Quest/">Costume Quest on Steam</a></p>
+<p class="post-meta">Platform: Previous-gen consoles and Steam • Developer: Double Fine Productions • <a href="https://store.steampowered.com/app/115100/Costume_Quest/" class="hallow">Costume Quest on Steam</a></p>
 
 <img src="/assets/img/costumequest.jpg" class="post-thumbnail" alt="Costume Quest">
 
@@ -43,7 +43,7 @@ Probably the least spooky game on this list, but the most apt for Halloween, Cos
 
 ## Stories Untold
 
-<p class="post-meta">Steam (macOS and Windows) • Developer: No Code • <a href="https://store.steampowered.com/app/558420/Stories_Untold/">Stories Untold on Steam</a></p>
+<p class="post-meta">Steam (macOS and Windows) • Developer: No Code • <a href="https://store.steampowered.com/app/558420/Stories_Untold/" class="hallow">Stories Untold on Steam</a></p>
 
 <img src="/assets/img/storiesuntold.jpg" class="post-thumbnail" alt="Stories Untold">
 
@@ -51,7 +51,7 @@ The only game on this list I've not played yet, but am planning to play this Hal
 
 ### Honorable mentions:
 
-- **Alan Wake**: My <a href="https://liberaljoon.com/blog/">friend</a> called it "Stephen King as a videogame" and I'm going to steal his quote. I loved this back on the Xbox 360, an engaging first-person mystery, in an episodic format with haunting songs after each chapter.
+- **Alan Wake**: My <a href="https://liberaljoon.com/blog/" class="hallow">friend</a> called it "Stephen King as a videogame" and I'm going to steal his quote. I loved this back on the Xbox 360, an engaging first-person mystery, in an episodic format with haunting songs after each chapter.
 - **The Last Door** - A point-and-click game with a unique super-pixel art style which creeped me out far more than I thought it would looking at it. A chilling adventure set in Victorian England.
 - **Kathy Rain** - Another point-and-click (can you tell I like them?) with an awesome leading female protagonist who is a journalist investigating the mysterious death of her grandfather. A fairly short game (took me around 7 hours), but often compared to Twin Peaks, it's.. pretty weird and I really enjoyed it.
 - **Sunless Sea** - A fantastic survival/exploration game from Failbetter Games, the studio who created Fallen London. Explore the Zee, gather your crew, make decisions and stay alive. Packed full of tons of excellent writing, and Lovecraftian horror.
