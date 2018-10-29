@@ -58,3 +58,5 @@ The only game on this list I've not played yet, but am planning to play this Hal
 - **The Binding of Isaac** - You're a crying naked child who's running through a basement filled with some of the weirdest creepies you may have seen, to escape his mother trying to kill him. Just one of my favourite games ever from one of my favourite developers, Edmund McMillen. His mind goes weird places and you'll be glad it does when you experience the creativity and fun of this dungeon crawling rogue-like.
 - **Corpse Party** - A tense and fairly disturbing Japanese survival horror/adventure I played on the PS Vita. Never has a game with such cute graphics made me feel so nervous.
 - Well except maybe **Doki Doki Literature Club**...
+
+Happy Halloween Gaming!
