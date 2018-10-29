@@ -9,13 +9,13 @@ I love spooky and eerie things all year round, but Halloween is an especially gr
 
 ## Night in the Woods
 
-<p class="post-meta">Platform: Pretty much all of them • Developed by: Finji • <a href="http://www.nightinthewoods.com/">nightinthewoods.com</a></p>
+<p class="post-meta">Platform: Steam/PS4/Switch/more • Developed by: Finji • <a href="http://www.nightinthewoods.com/">nightinthewoods.com</a></p>
 
 <img src="/assets/img/nightinthewoods.jpg" class="post-thumbnail" alt="Night in the Woods screenshot">
 
 Night in the Woods recently got released on the Nintendo Switch, so I'm finally playing it for the first time, and it seemed like an appropriate time of year. Night in the Woods is set in the late Fall, in the quiet town of Possum Springs, and follows the main character Mae after she drops out of college and returns to her hometown. Night in the Woods is probably best described as an explorative adventure game, with lots of characters to meet, things to do, and secrets to uncover.
-&lquo;Home seems different now and her friends have grown and changed. Leaves are falling and the wind is growing colder. Strange things are happening as the light fades.
-And there's something in the woods.&rquo; - nightinthewoods.com
+*"Home seems different now and her friends have grown and changed. Leaves are falling and the wind is growing colder. Strange things are happening as the light fades.
+And there's something in the woods."* - nightinthewoods.com
 
 ## Detention
 
