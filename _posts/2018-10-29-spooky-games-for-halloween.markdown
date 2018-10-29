@@ -11,7 +11,7 @@ I love spooky and eerie things all year round, but Halloween is an especially gr
 
 <p class="post-meta">Platform: Pretty much all of them • Developed by: Finji • <a href="http://www.nightinthewoods.com/">nightinthewoods.com</a></p>
 
-<img src="/assets/img/nightinthewoods.png" class="post-thumbnail" alt="Night in the Woods screenshot">
+<img src="/assets/img/nightinthewoods.jpg" class="post-thumbnail" alt="Night in the Woods screenshot">
 
 Night in the Woods recently got released on the Nintendo Switch, so I'm finally playing it for the first time, and it seemed like an appropriate time of year. Night in the Woods is set in the late Fall, in the quiet town of Possum Springs, and follows the main character Mae after she drops out of college and returns to her hometown. Night in the Woods is probably best described as an explorative adventure game, with lots of characters to meet, things to do, and secrets to uncover.
 &lquo;Home seems different now and her friends have grown and changed. Leaves are falling and the wind is growing colder. Strange things are happening as the light fades.
@@ -29,7 +29,7 @@ Detention is a Taiwanese horror adventure game, set in 1960s Taiwan under martia
 
 <p class="post-meta">Platform: Steam • Developer: Killmonday Games • <a href="http://franbow.com">franbow.com</a></p>
 
-<img src="/assets/img/franbow.jpg" class="post-thumbnail" alt="Fran Bow">
+<img src="/assets/img/franbow.png" class="post-thumbnail" alt="Fran Bow">
 
 Fran Bow is one of my favourite point and click adventures of recent years. Its art style is lovely, almost adorable, but don't be fooled - it's a pretty dark game. A psychological horror adventure, Fran Bow is centred around the titular character, a ten-year-old girl, who begins the game in a mental asylum after witnessing the murder of her parents. After escaping the asylum, Fran and her best friend (a talking black cat named Mr Midnight) embark on a quest to get back home. The most unique aspect of this game is the alternate realities or hallucinations that Fran experiences, which are often horrific and definitely creeped me out a few times. However the game is also full of friendship and hope, and it's a lovely adventure game, if you can make it through!
 
@@ -45,7 +45,7 @@ Probably the least spooky game on this list, but the most apt for Halloween, Cos
 
 <p class="post-meta">Steam (macOS and Windows) • Developer: No Code • <a href="https://store.steampowered.com/app/558420/Stories_Untold/">Stories Untold on Steam</a></p>
 
-<img src="/assets/img/storiesuntold.jpg" alt="Stories Untold">
+<img src="/assets/img/storiesuntold.jpg" class="post-thumbnail" alt="Stories Untold">
 
 The only game on this list I've not played yet, but am planning to play this Halloween week, Stories Untold is currently just £1.74 on Steam so I recommend picking it up if it sounds interesting to you! An episodic horror adventure-puzzle game, I don't know a lot about what the gameplay entails yet, but I am intrigued by the few screenshots and title art alone, it looks like something really unique, and I love to find little indie games that are a bit out there and different.
 
