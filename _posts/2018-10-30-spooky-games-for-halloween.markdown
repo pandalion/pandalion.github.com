@@ -5,7 +5,7 @@ date:   2018-10-30 13:00:00 +0000
 categories: videogames
 ---
 
-I love spooky and eerie things all year round, but Halloween is a great excuse to get in the mood with some creepy games. I'm not good with jump scares in gaming though, so you won't find Silent Hill or Resident Evil on this list, instead I wanted to recommend some spooky but maybe less obvious picks, with a focus on indie games.
+I love spooky and eerie things all year round, but Halloween is an especially great excuse to get in the mood with some creepy games. I'm not good with jump scares in games though, so you won't find Silent Hill or Resident Evil on this list, instead I wanted to recommend some spooky but perhaps less well-known picks.
 
 ## Night in the Woods
 
@@ -13,33 +13,33 @@ I love spooky and eerie things all year round, but Halloween is a great excuse t
 
 <img src="/assets/img/deadcells.png" class="post-thumbnail" alt="Night in the Woods screenshot">
 
-Night in the Woods recently got released on the Nintendo Switch, so I'm finally playing it for the first time, and it seemed like an appropriate time of year. Night in the Woods is set in the late Fall, in the quiet town of Possum Springs, and follows the main character, Mae, after she drops out of college and returns to her hometown to catch up with old friends. Night in the Woods is probably best described as an explorative adventure game, with lots of characters to meet, things to do, and secrets to uncover.
+Night in the Woods recently got released on the Nintendo Switch, so I'm finally playing it for the first time, and it seemed like an appropriate time of year. Night in the Woods is set in the late Fall, in the quiet town of Possum Springs, and follows the main character Mae after she drops out of college and returns to her hometown. Night in the Woods is probably best described as an explorative adventure game, with lots of characters to meet, things to do, and secrets to uncover.
 &lquo;Home seems different now and her friends have grown and changed. Leaves are falling and the wind is growing colder. Strange things are happening as the light fades.
 And there's something in the woods.&rquo; - nightinthewoods.com
 
 ## Detention
 
-<p class="post-meta">Platform: Playstation 4 • Developer: <a href="https://www.guerrilla-games.com/">Guerilla Games</a> • Released: February 2017</p>
+<p class="post-meta">Platform: Steam/PS4/Switch • Developer: Red Candle Games • <a href="#">Detention on Steam</a></p>
 
-<img src="/assets/img/horizon.jpg" class="post-thumbnail" alt="Horizon Zero Dawn screenshot">
+<img src="/assets/img/horizon.jpg" class="post-thumbnail" alt="Detention screenshot">
 
-An open-world action game from a company who had previously worked primarily on first-person shooters (the <em>Killzone</em> series). Set in a post-post-apocalyptic world where nature and technology meet, you play a strong-willed female protagonist - Aloy - who seeks to learn about herself and the mystery of her past. All the while you get to hunt and hack awesome machines that resemble giant metal dinosaurs :D For an open-world game, the combat really shines as being one of the strong points, but all the usual open-world mechanics are done well too, with crafting, quests and beautiful scenery to explore. Plus, I found the game didn't get overwhelming in terms of markers and places to go, which made it feel broad but not filled to the brim with things to do for the sake of content. If you have played the game already, I recommend checking out this <a href="https://www.youtube.com/watch?v=h9tLcD1r-6w">noclip documentary (YouTube)</a> that gives insights into the development of the game.
+Detention is a Taiwanese horror adventure game, set in 1960s Taiwan under martial law. It's basically a point and click game, and the puzzles themselves are nothing particularly taxing, but it's well worth playing for the story and experience. The horror is slow and subtle in this one, and comes less from obvious "monsters" and more from the creepy atmosphere and the devastating consequences of martial law on the characters in the game. Detention can be completed in 3-5 hours, but it's a beautiful experience that will stay with you and haunt you in more ways than one.
 
 ## Fran Bow
 
-<p class="post-meta">Platform: PS4, Windows, Xbox One, Nintendo Switch • Developer: <a href="http://www.tequilaworks.com/">Tequila Works</a> • Released: April 2017, Switch December 2017</p>
+<p class="post-meta">Platform: Steam • Developer: Killmonday Games • <a href="http://franbow.com">franbow.com</a></p>
 
 <img src="/assets/img/sexybrutale.jpg" class="post-thumbnail" alt="The Sexy Brutale packaging">
 
-I love games that do something original, whether that's the theme, mechanic, or visual style, and The Sexy Brutale does originality in spades. The game takes place in the fancy hotel/casino named The Sexy Brutale, and you play as a priest who witnesses the murders of guests at the hotel, and then has to try and stop them.. without getting directly involved. This is best described as a puzzle game with a time-travel mechanic. If you've ever heard of a DS game called Ghost Trick, it's a similar idea. The game has a fantastic theme, diverse characters, and an interesting story, and whilst it's not super long, it's intriguing from start to end. For more of an in-depth review I recommend this <a href="https://www.youtube.com/watch?v=9jsusUWqfSc">YouTube review by Jim Sterling</a> - it's how I found out about the game originally and it's a great introduction if you're unsure.
+Fran Bow is one of my favourite point and click adventures of recent years. Its art style is lovely, almost adorable, but don't be fooled - it's a pretty dark game. A psychological horror adventure, Fran Bow is centred around the titular character, a ten-year-old girl, who begins the game in a mental asylum after witnessing the murder of her parents. After escaping the asylum, Fran and her best friend (a talking black cat named Mr Midnight) embark on a quest to get back home. The most unique aspect of this game is the alternate realities or hallucinations that Fran experiences, which are often horrific and definitely creeped me out a few times. However the game is also full of friendship and hope, and it's a lovely adventure game, if you can make it through!
 
-##
+## Costume Quest
 
 <p class="post-meta">Platform: Playstation 4 • Developer: <a href="https://www.naughtydog.com/">Naughty Dog</a> • Released: August 2017</p>
 
 <img src="/assets/img/uncharted.jpg" class="post-thumbnail" alt="Uncharted: The Lost Legacy screenshot">
 
-Some of you reading may be familiar with the Uncharted series - it's a Playstation exclusive action-adventure / third-person shooter, and usually the series follows the escapades and adventures of lovable rogue Nathan Drake. I've always enjoyed the series for the historic treasure-hunting and sense of adventure, as well as the attention to detail in characters and scenes that we have come to expect from Naughty Dog. I was excited to hear that this potential Uncharted 4 DLC featuring not one but two female protagonists, was going to be released as a full game. Starring Chloe Frazer and Nadine Ross - both side characters in previous Uncharted games - this time at the forefront of the adventure. The game released at cheaper than the usual "full" Uncharted adventures, but felt very much like a full game in it's own right - I think I played it for about 30 hours. As well as the usual fun adventuring, and refinement of Uncharted's typical mechanics, this game did something great which was put women at the forefront - charismatic, strong, independent, don't-take-no-shit women at that, and focused on the relationship between them. Strong female friendships are something we need more of in video-games, and as well as that, the rest of the game was an amazing experience. Almost my game of the year!
+Probably the least spooky game on this list, but the most apt for Halloween, Costume Quest is a whimsical, bright, gorgeous-looking little RPG, from the excellent talent at Double Fine Productions. Choose to play as twin Reynold or Wren, as they go trick-or-treating on Halloween. This game is full of candy, costumes, and the funny writing we've come to expect from Tim Schafer games. One of the best bits of this game is the battles where you transform from a little kid in a sheet to a fully-fledged monster with awesome skills, transformer-wise. This game is fairly easy, so don't expect a challenge, but expect a really fun and charming Halloween adventure!
 
 ##
 
@@ -51,6 +51,5 @@ Thimbleweed Park is a game that captures the very essence of a LucasArts point-a
 
 Graphically, it resembles an old point-and-click adventure, but clearly updated to feel like how you <em>remembered</em> those old-school adventures, with little details that make it visually a treat to look at, whilst still retro. It's humorous, with an intriguing Twin Peaks vibe. You switch between multiple characters - Maniac Mansion style, and investigate the mystery of Thimbleweed Park. In my opinion this game is the successor to Monkey Island that we've been waiting for for years (The Cave was good but not quite right, and 3d adventure games never quite felt the same to me). I may just be a massive Ron Gilbert fangirl, but Thimbleweed Park is a modern day classic point-and-click adventure. I loved it. <a href="http://store.steampowered.com/app/569860/Thimbleweed_Park/">Thimbleweed Park on Steam</a>.
 
-Also, a doodle of Delores I did - one of my favourite characters in the game :)
 
-<img src="/assets/img/delores.jpg" alt="Delores doodle">
+Others - Don't Starve, Subnautica, Sunless Sea, Stories Untold,
