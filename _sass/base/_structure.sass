@@ -1,0 +1,41 @@
+*
+    box-sizing: border-box
+
+body
+    width: 100%
+    background-color: $bg-color
+    // border-top: 15px solid $peach
+
+    &::before
+        content: ''
+        display: block
+        height: 15px
+        background: $peach
+        width: 100%
+        position: fixed
+        top: 0
+        left: 0
+        z-index: 2
+
+.inner-wrapper
+    padding: $spacing-unit * 2
+    padding-top: 0
+    padding-bottom: $spacing-unit / 2
+
+.structure
+    max-width: $site-max-width
+    margin: 0 auto
+
+.flex-wrapper
+    @include flexbox
+    @include justify-content(center)
+
+.site-main
+    padding: $spacing-unit * 2
+    padding-right: 0
+
+.site-footer
+    text-align: right
+    padding-top: $spacing-unit * 2
+    p
+        font-size: 14px

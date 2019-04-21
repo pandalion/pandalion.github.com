@@ -6,22 +6,36 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- turn off telephone number detection in safari -->
         <meta name="format-detection" content="telephone=no">
+        <link href="https://fonts.googleapis.com/css?family=Rubik|Karla" rel="stylesheet">
         <link href="/assets/css/main.css" rel="stylesheet">
-
+        <!-- prevent initial link colour flashing -->
+        <style>
+            a {
+                color: #111;
+            }
+        </style>
     </head>
     <body>
-        <header class="site-header">
-            <div class="structure">
-                stuff
+        <div class="inner-wrapper">
+            <div class="flex-wrapper structure">
+                <header class="site-header">
+                    <div class="fixed">
+                        <div class="panda"></div>
+                        <h1><a href="/">panda plays <span>games</span></a></h1>
+                        <p>Hi, I'm Panda. I play videogames and sometimes write about them.</p>
+                    </div>
+                </header>
+                <main class="site-main">
+                    <div class="structure">
+                        {{ content }}
+                    </div>
+                </main>
             </div>
-        </header>
-        <main>
-            {{ content }}
-        </main>
-        <footer class="site-footer">
-            <div class="structure">
-                stuff
-            </div>
-        </footer>
+            <footer class="site-footer">
+                <div class="structure">
+                    <p>2019 and beyond. Made with <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://sass-lang.com/">Sass</a> and usually a cat meowing.</p>
+                </div>
+            </footer>
+        </div>
     </body>
 </html>

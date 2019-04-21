@@ -4,25 +4,31 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">🐼 All posts</h1>
+    {{ content }}
 
-  {{ content }}
-
-  <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        {% assign date_format = "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <article class="post">
+            <div class="post-date">
+                {% assign date_format = "%b %-d, %Y" %}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+            </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+            <h2 class="post-title">
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
 
-        {{ post.excerpt }}
+            {{ post.excerpt }}
 
-        <a class="button" href="{{ post.url | relative_url }}">read more</a>
-      </li>
+            <a class="read-more" href="{{ post.url | relative_url }}">Read More</a>
+
+            <footer class="post-footer">
+                {% for category in post.categories %}
+                    <div class="tag">
+                        {{ category }}
+                    </div>
+                {% endfor %}
+            </footer>
+        </article>
     {% endfor %}
-  </ul>
 
 </div>

@@ -2,7 +2,10 @@
 layout: post
 title:  "My top 5 games of 2017"
 date:   2018-01-03 16:27:45 +0000
-categories: videogames
+categories:
+    - videogames
+    - something
+    - another
 ---
 
 I played a lot of videogames in 2017, and many of them didn't come out in 2017, but for now these are my top 5 games that actually came out last year. Before we start, I'll give an honourable mention to the Nintendo Switch - my partner and I both picked one up late in the year and we both fell in love with <em>Mario Odyssey</em>, <em>Breath of the Wild</em> and <em>Mario vs. Rabbids</em> to name a few Nintendo exclusives. Nintendo have really done great this year with Switch releases, but I'm not going to talk about those games just because I think it's fairly wide knowledge how well they've done and how popular they are, and so I'd rather focus on some (maybe) lesser-known games. So, here goes!
