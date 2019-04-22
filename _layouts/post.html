@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post post-main-page">
     <div class="post-date">
         {% assign date_format = "%b %-d, %Y" %}
         <span class="post-meta">{{ page.date | date: date_format }}</span>
     </div>
     <h2 class="post-title">{{ page.title }}</h2>
-    {{ content }}
+
+    <div class="post-body">
+        {{ content }}
+    </div>
 </article>
