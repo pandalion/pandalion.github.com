@@ -4,7 +4,6 @@
 body
     width: 100%
     background-color: $bg-color
-    // border-top: 15px solid $peach
 
     &::before
         content: ''
@@ -18,9 +17,17 @@ body
         z-index: 2
 
 .inner-wrapper
-    padding: $spacing-unit * 2
-    padding-top: 0
-    padding-bottom: $spacing-unit / 2
+    padding: $spacing-unit / 2
+
+    @include media($media-width-medium)
+        padding: $spacing-unit
+        padding-top: 0
+        padding-bottom: $spacing-unit / 2
+
+    @include media($media-width-large)
+        padding: $spacing-unit * 2
+        padding-top: 0
+        padding-bottom: $spacing-unit / 2
 
 .structure
     max-width: $site-max-width
@@ -29,13 +36,30 @@ body
 .flex-wrapper
     @include flexbox
     @include justify-content(center)
+    @include flex-direction(column)
+
+    @include media($media-width-medium)
+        @include flex-direction(row)
 
 .site-main
-    padding: $spacing-unit * 2
-    padding-right: 0
+    @include media($media-width-medium)
+        padding: $spacing-unit
+        padding-right: 0
+
+    @include media($media-width-large)
+        padding: $spacing-unit * 2
+        padding-right: 0
 
 .site-footer
-    text-align: right
-    padding-top: $spacing-unit * 2
+    text-align: center
+    padding: $spacing-unit / 2
+    padding-top: $spacing-unit
+    padding-bottom: 0
+
     p
         font-size: 14px
+
+    @include media($media-width-medium)
+        text-align: right
+        padding: 0
+        padding-top: $spacing-unit
