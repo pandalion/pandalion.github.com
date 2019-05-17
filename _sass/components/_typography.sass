@@ -17,6 +17,12 @@ ol
         @include media($media-width-large)
             margin-top: $spacing-unit
 
+p + p
+    margin-top: $spacing-unit / 4
+
+    @include media($media-width-large)
+        margin-top: $spacing-unit / 2
+
 h1,
 h2,
 h3,
@@ -25,8 +31,11 @@ h5
     font-family: $heading-font-family
 
 h1
-    font-size: 40px
+    $h1-size: 40px
+    font-size: $h1-size / 1.5
 
+    @include media($media-width-medium)
+        font-size: $h1-size
 h2
     $h2-size: 34px
     font-size: $h2-size / 1.5
@@ -34,10 +43,16 @@ h2
     @include media($media-width-medium)
         font-size: $h2-size
 
+h3
+    $h3-size: 26px
+    font-size: $h3-size / 1.5
+
+    @include media($media-width-medium)
+        font-size: $h3-size
+
 a
     text-decoration: none
     color: $red
-    font-weight: bold
     position: relative
 
     &:hover,
@@ -65,3 +80,14 @@ a
 img
     max-width: 100%
     height: auto
+
+
+hr
+    border: none
+    height: 1px
+    background-color: darken($bg-color, 10%)
+    margin-bottom: $spacing-unit
+
+li
+    + li
+        margin-top: $spacing-unit / 2
