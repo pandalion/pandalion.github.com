@@ -41,7 +41,6 @@
 
         span
             position: relative
-            color: $purple
             &::before
                 content: ''
                 display: block
@@ -50,7 +49,7 @@
                 bottom: 6px
                 width: 18px
                 height: 18px
-                background: $yellow
+                background: $purple
                 border-radius: 100%
 
             &::after
@@ -92,10 +91,15 @@
     height: $size / 2
     order: 2
 
+    &:hover
+        &::after
+            content: none
+
     @include media($media-width-medium)
         width: $size-small
         height: $size-small
         margin: 0 auto
+        margin-right: -2px
         order: 1
 
     @include media($media-width-medium)
