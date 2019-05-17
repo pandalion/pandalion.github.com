@@ -4,31 +4,38 @@ title:  "My top 5 games of 2017"
 date:   2018-01-03 16:27:45 +0000
 categories:
     - videogames
-    - something
-    - another
+    - lists
 ---
 
 I played a lot of videogames in 2017, and many of them didn't come out in 2017, but for now these are my top 5 games that actually came out last year. Before we start, I'll give an honourable mention to the Nintendo Switch - my partner and I both picked one up late in the year and we both fell in love with <em>Mario Odyssey</em>, <em>Breath of the Wild</em> and <em>Mario vs. Rabbids</em> to name a few Nintendo exclusives. Nintendo have really done great this year with Switch releases, but I'm not going to talk about those games just because I think it's fairly wide knowledge how well they've done and how popular they are, and so I'd rather focus on some (maybe) lesser-known games. So, here goes!
 
 ## 5 - Dead Cells
 
-<p class="post-meta">Platform: Windows • Developer: <a href="https://motion-twin.com/en/">Motion Twin</a> • Released: May 2017 (early access)</p>
+<p class="sub-info">Platform: Windows • Developer: <a href="https://motion-twin.com/en/">Motion Twin</a> • Released: May 2017 (early access)</p>
 
 <img src="/assets/img/deadcells.png" class="post-thumbnail" alt="Dead Cells screenshot">
 
-Even though Dead Cells is still in early access I think it's worth mentioning because it's so much fun and plays really well in the state it's in, even though the devs are still refining and improving the game. Dead Cells is a platformer style "roguelike" - basically a game where you have multiple runs and the levels are in part procedurally generated, making each run fresh and different. You'll die - a lot - this game takes influence from Dark Souls even if it plays pretty differently. You encounter various enemies, sometimes a lot of them, and by using swords, bows and other items you'll take them down - and it'll feel damn good doing so! Each time you make some progress you'll unlock new items and abilities to help you out in future runs, so you essentially become better as you practise, have more items at your disposal, and get a bit further each time. The game has really tight controls, as well as excellent graphics and music, that make it feel like a joy to play. There are little details that give it a really quality feel. It's hard to describe any games it's really "like", but I recommend giving it a go. If you're reading this at the time I write it, it's also 25% off on Steam! <a href="http://store.steampowered.com/app/588650/Dead_Cells/">Dead Cells on Steam</a>.
+Even though Dead Cells is still in early access I think it's worth mentioning because it's so much fun and plays really well in the state it's in, even though the devs are still refining and improving the game. Dead Cells is a platformer style "roguelike" - basically a game where you have multiple runs and the levels are in part procedurally generated, making each run fresh and different.
+
+You'll die - a lot - this game takes influence from Dark Souls even if it plays pretty differently. You encounter various enemies, sometimes a lot of them, and by using swords, bows and other items you'll take them down - and it'll feel damn good doing so! Each time you make some progress you'll unlock new items and abilities to help you out in future runs, so you essentially become better as you practise, have more items at your disposal, and get a bit further each time.
+
+The game has really tight controls, as well as excellent graphics and music, that make it feel like a joy to play. There are little details that give it a really quality feel. It's hard to describe any games it's really "like", but I recommend giving it a go. If you're reading this at the time I write it, it's also 25% off on Steam! <a href="http://store.steampowered.com/app/588650/Dead_Cells/">Dead Cells on Steam</a>.
 
 ## 4 - Horizon Zero Dawn
 
-<p class="post-meta">Platform: Playstation 4 • Developer: <a href="https://www.guerrilla-games.com/">Guerilla Games</a> • Released: February 2017</p>
+<p class="sub-info">Platform: Playstation 4 • Developer: <a href="https://www.guerrilla-games.com/">Guerilla Games</a> • Released: February 2017</p>
 
 <img src="/assets/img/horizon.jpg" class="post-thumbnail" alt="Horizon Zero Dawn screenshot">
 
-An open-world action game from a company who had previously worked primarily on first-person shooters (the <em>Killzone</em> series). Set in a post-post-apocalyptic world where nature and technology meet, you play a strong-willed female protagonist - Aloy - who seeks to learn about herself and the mystery of her past. All the while you get to hunt and hack awesome machines that resemble giant metal dinosaurs :D For an open-world game, the combat really shines as being one of the strong points, but all the usual open-world mechanics are done well too, with crafting, quests and beautiful scenery to explore. Plus, I found the game didn't get overwhelming in terms of markers and places to go, which made it feel broad but not filled to the brim with things to do for the sake of content. If you have played the game already, I recommend checking out this <a href="https://www.youtube.com/watch?v=h9tLcD1r-6w">noclip documentary (YouTube)</a> that gives insights into the development of the game.
+An open-world action game from a company who had previously worked primarily on first-person shooters (the <em>Killzone</em> series). Set in a post-post-apocalyptic world where nature and technology meet, you play a strong-willed female protagonist - Aloy - who seeks to learn about herself and the mystery of her past. All the while you get to hunt and hack awesome machines that resemble giant metal dinosaurs :D
+
+For an open-world game, the combat really shines as being one of the strong points, but all the usual open-world mechanics are done well too, with crafting, quests and beautiful scenery to explore. Plus, I found the game didn't get overwhelming in terms of markers and places to go, which made it feel broad but not filled to the brim with things to do for the sake of content.
+
+If you have played the game already, I recommend checking out this <a href="https://www.youtube.com/watch?v=h9tLcD1r-6w">noclip documentary (YouTube)</a> that gives insights into the development of the game.
 
 ## 3 - The Sexy Brutale
 
-<p class="post-meta">Platform: PS4, Windows, Xbox One, Nintendo Switch • Developer: <a href="http://www.tequilaworks.com/">Tequila Works</a> • Released: April 2017, Switch December 2017</p>
+<p class="sub-info">Platform: PS4, Windows, Xbox One, Nintendo Switch • Developer: <a href="http://www.tequilaworks.com/">Tequila Works</a> • Released: April 2017, Switch December 2017</p>
 
 <img src="/assets/img/sexybrutale.jpg" class="post-thumbnail" alt="The Sexy Brutale packaging">
 
@@ -36,7 +43,7 @@ I love games that do something original, whether that's the theme, mechanic, or 
 
 ## 2 - Uncharted: The Lost Legacy
 
-<p class="post-meta">Platform: Playstation 4 • Developer: <a href="https://www.naughtydog.com/">Naughty Dog</a> • Released: August 2017</p>
+<p class="sub-info">Platform: Playstation 4 • Developer: <a href="https://www.naughtydog.com/">Naughty Dog</a> • Released: August 2017</p>
 
 <img src="/assets/img/uncharted.jpg" class="post-thumbnail" alt="Uncharted: The Lost Legacy screenshot">
 
@@ -44,7 +51,7 @@ Some of you reading may be familiar with the Uncharted series - it's a Playstati
 
 ## 1 - Thimbleweed Park
 
-<p class="post-meta">Platform: Microsoft Windows, macOS, iOS, Xbox One, PlayStation 4, Linux, Android, and Nintendo Switch (phew!) • Developer: <a href="https://en.wikipedia.org/wiki/Ron_Gilbert/">Ron Gilbert</a> and <a href="https://en.wikipedia.org/wiki/Gary_Winnick_(game_developer)">Gary Winnick</a> • Released: Various 2017</p>
+<p class="sub-info">Platform: Microsoft Windows, macOS, iOS, Xbox One, PlayStation 4, Linux, Android, and Nintendo Switch (phew!) • Developer: <a href="https://en.wikipedia.org/wiki/Ron_Gilbert/">Ron Gilbert</a> and <a href="https://en.wikipedia.org/wiki/Gary_Winnick_(game_developer)">Gary Winnick</a> • Released: Various 2017</p>
 
 <img src="/assets/img/Thimbleweed-Park-Cover.jpg" alt="Thimbleweed Park cover">
 
