@@ -9,7 +9,7 @@ body
         content: ''
         display: block
         height: 15px
-        background: $purple
+        background: $theme-color
         width: 100%
         position: fixed
         top: 0
@@ -42,6 +42,9 @@ body
         @include flex-direction(row)
 
 .site-main
+    @include flex-grow(1)
+    @include flex-shrink(1)
+
     @include media($media-width-medium)
         padding: $spacing-unit
         padding-right: 0

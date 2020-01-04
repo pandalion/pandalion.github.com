@@ -2,8 +2,23 @@
     display: inline-flex
     padding: 10px 20px
     background: #fff
-    color: $peach
+    color: $theme-color
     font-family: $heading-font-family
-    border: 1px solid $peach
+    border: 1px solid $theme-color
 
-    &::after
+.btn-post-home
+    position: absolute
+    width: 28px
+    height: 28px
+    padding: 5px
+    fill: #fff
+    top: 22px
+    left: 8px
+    z-index: 2
+    opacity: 0.3
+    transition: opacity 0.2s linear
+
+    &:hover
+        opacity: 1
+        &::after
+            content: none

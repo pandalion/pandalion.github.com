@@ -3,6 +3,7 @@ layout: default
 ---
 
 <article class="post post-main-page">
+    {% include arrow-left.html %}
     <div class="post-date">
         {% assign date_format = "%b %-d, %Y" %}
         <span class="post-meta">{{ page.date | date: date_format }}</span>

@@ -14,11 +14,14 @@
         padding: $spacing-unit 0
         width: 300px
         text-align: right
+
         .fixed
             @include flex-direction(column)
+            max-width: 230px
 
     @include media($media-width-large)
         padding: ($spacing-unit * 2) 0
+
         .fixed
             padding: 25px
             padding-top: 0
@@ -40,8 +43,10 @@
                 content: none
 
         span
+            display: inline-block
             position: relative
-            color: $purple
+            color: $theme-color
+
             &::before
                 content: ''
                 display: block
@@ -50,7 +55,7 @@
                 bottom: 6px
                 width: 18px
                 height: 18px
-                background: $purple
+                background: $theme-color
                 border-radius: 100%
 
             &::after
@@ -107,7 +112,7 @@
         width: $size
         height: $size
 
-.header-mobile
+.header-wrapper
     @include flexbox
     @include justify-content(center)
     @include align-items(center)
@@ -115,3 +120,7 @@
 
     @include media($media-width-medium)
         @include flex-direction(column)
+
+nav
+    a
+        display: block
