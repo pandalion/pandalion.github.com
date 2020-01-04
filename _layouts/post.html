@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article class="post post-main-page">
+    {% include arrow-left.html %}
+    <div class="post-date">
+        {% assign date_format = "%b %-d, %Y" %}
+        <span class="post-meta">{{ page.date | date: date_format }}</span>
+    </div>
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    <div class="post-body">
+        {{ content }}
+    </div>
+    <footer><a href="/" class="go-back">Back to all posts</a></footer>
+</article>

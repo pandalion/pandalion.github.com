@@ -1,0 +1,15 @@
+// Breakpoints mixin
+@mixin media($expression)
+    @media #{$expression}
+        @content
+
+// Basic media queries to match "device" sizes from designs
+// More can be added dependant on the requirements of the project
+$media-width-small: 'screen and (min-width: 470px)'
+$media-width-medium: 'screen and (min-width: 640px)'
+$media-width-large: 'screen and (min-width: 1024px)'
+$media-width-extralarge: 'screen and (min-width: 1300px)'
+
+// Example usage
+// @include media($media-width-large)
+//    width: 100%

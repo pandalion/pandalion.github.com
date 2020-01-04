@@ -1,16 +1,18 @@
 ---
-layout: page
-title: about
+layout: general
+title: About the author
 permalink: /about/
 ---
 
-The pandalion aka Panda is a 30-something (she's losing count) front-end developer from the UK. It's kind of funny how we define ourselves by our job title isn't it? Panda is lots of things. She certainly loves coding, especially writing [Sass](http://sass-lang.com/), using [Git](https://git-scm.com/), working in teams (she's no rockstar), mentoring junior developers and creating awesome stuff, but she also loves:
-- videogames (she started with the C64 and hasn't looked back)
-- drawing cute things (see some on facebook at [Pandalion Doodles](https://www.facebook.com/pandaliondoodles/))
-- hanging out with her partner and their cat baby
-- eating at restaurants
-- listening to pop-punk music from the 90s (her favourite band are still blink-182)
-- riding on steam trains
-- having cosy feet (who doesn't though?)
+Hi, I'm Panda - a front-end developer, avid videogame enthusiast, occasional doodler, and lover of coffee, cats and naps.
 
-Panda is currently part of the awesome Open Digital team @ [Open Health](https://www.openhealth.co.uk/).
+I'm currently part of the awesome digital team at [Open Health](https://www.openhealth.co.uk/).
+
+If you'd like to get in touch, you can reach me at thepandalion @ gmail dot com. You can also find me on [twitter](http://www.twitter.com/thepandalion) or [github](http://www.github.com/thepandalion).
+
+### Friends
+
+If you enjoyed this blog, you might like these:
+* Fenton writes about [coffee and videogames](https://fentonizer.tumblr.com/)
+* Kayjoon [blogs about games](https://liberaljoon.com/blog/) and also chats about them at [MaximumPowerUp](http://www.maximumpowerup.com)
+* Peter and Frank have an awesome [Arkham Horror podcast](https://www.facebook.com/drawntotheflamepodcast/)
