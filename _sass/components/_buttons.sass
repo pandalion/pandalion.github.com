@@ -7,23 +7,19 @@
     border: 1px solid $theme-color
 
 .btn-post-home
-    display: none
+    position: absolute
+    width: 28px
+    height: 28px
+    padding: 5px
+    fill: #fff
+    top: 22px
+    left: 8px
+    z-index: 2
+    opacity: 0.3
+    transition: opacity 0.2s linear
 
-    @include media($media-width-medium)
-        display: block
-        position: absolute
-        width: 28px
-        height: 28px
-        padding: 5px
-        fill: #fff
-        top: 22px
-        left: 8px
-        z-index: 2
-        opacity: 0.3
-        transition: opacity 0.2s linear
+    &:hover
+        opacity: 1
 
-        &:hover
-            opacity: 1
-
-            &::after
-                content: none
+        &::after
+            content: none

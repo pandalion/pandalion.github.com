@@ -37,6 +37,11 @@
     top: $spacing-unit / 2
     left: 0
     padding: 5px ($spacing-unit / 2)
+    min-width: 43px
+    min-height: 32px
+
+    .post-main-page &
+        padding: 5px $spacing-unit
 
     @include media($media-width-medium)
         padding: 5px ($spacing-unit / 2) 5px $spacing-unit
@@ -105,9 +110,12 @@
 .read-more,
 .go-back
     color: $theme-color
-    font-size: 20px
+    font-size: 16px
     margin-top: $spacing-unit / 2
     display: inline-flex
+
+    @include media($media-width-medium)
+        font-size: 20px
 
 .tag
     background: $bg-color

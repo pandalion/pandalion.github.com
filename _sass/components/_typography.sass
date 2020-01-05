@@ -41,7 +41,8 @@ h1
         font-size: $h1-size
 
     &.small
-        font-size: $h1-size / 1.2
+        @include media($media-width-medium)
+            font-size: $h1-size / 1.2
 
 h2
     $h2-size: 34px
