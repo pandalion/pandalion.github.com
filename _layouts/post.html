@@ -3,7 +3,11 @@ layout: default
 ---
 
 <article class="post post-main-page">
-    {% include arrow-left.html %}
+    <a href="/" class="btn-post-home">
+        <svg class="icon icon-arrow-left">
+            <use xlink:href="#icon-arrow-left"></use>
+        </svg>
+    </a>
     <div class="post-date">
         {% assign date_format = "%b %-d, %Y" %}
         <span class="post-meta">{{ page.date | date: date_format }}</span>

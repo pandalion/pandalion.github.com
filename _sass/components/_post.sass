@@ -145,3 +145,25 @@
         background-color: $bg-color
         padding: 20px
         margin-top: 20px
+
+        &.with-links-area
+            @include flexbox
+            @include justify-content(space-between)
+            @include align-items(center)
+
+    .links-area
+        @include flexbox
+        margin-top: 0
+
+        a
+            @include flexbox
+
+            + a
+                margin-left: 15px
+
+            &::after
+                content: none
+
+        .icon
+            width: 20px
+            height: 20px

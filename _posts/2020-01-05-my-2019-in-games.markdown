@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "My 2019 in games"
+date:   2020-01-05 16:50:00 +0000
+categories:
+    - videogames
+    - lists
+---
+
+Another year in gaming done. Sadly it looks like I forgot to make a post at the end of 2018 but regardless, let's pick up here! Rather than the conventional top 5 or 10 list, I decided to just pick out games based on the various ways that they brightened up my year. Plus triple A games get a lot of love everywhere, so I like to try and include some lesser-known picks. Happy New Year, and I hope you enjoy the list!
+
+## The "Where have you been all my life?" award - deadly premonition
+## The "I actually want to replay this and I never replay anything" award - fe three houses
+## The "Most stylish" award - dicey dungeons
+## The "Look ma, no combat!" joint award - plague tale innocence and disco elysium
+
+
+## The couldnt get into
+divinity original sin 2
+ori and hte blind forrest
+
+
+## The "Ultimate 90s Nostalgia Trip" award
+
+<div class="sub-info with-links-area">
+    <p>Hypnospace Outlaw (Windows/Linux/Mac)</p>
+    <div class="links-area">
+        <a href="https://store.steampowered.com/app/844590/Hypnospace_Outlaw/" title="Hypnospace Outlaw on Steam">
+            <svg class="icon link icon-steam">
+                <use xlink:href="#icon-steam"></use>
+            </svg>
+        </a>
+        <a href="http://hypnospace.net" title="Hypnospace Outlaw website">
+            <svg class="icon link icon-sphere">
+                <use xlink:href="#icon-sphere"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<img src="/assets/img/deadcells.png" class="post-thumbnail" alt="Dead Cells screenshot">
+
+I'm not sure where to even begin describing Hypnospace Outlaw. The game is played through what is essentially a fictional web browser, and you play as an online "enforcer", who patrols the internet of an alternate-reality 1999. You will need to carry out various tasks and detective work to crack down on internet outlaws - hunting down viruses, bullying, or copyright infringement. Alongside this though, you are let loose to browse to your delight, partaking in some 90s internet delights such as virtual pets, gaudy gifs, and collecting awful desktop wallpapers.
+
+Using search terms or links between pages you can delve into the depths of this fictional internet, getting to know all the inhabitants of it as you go (and their MySpace-like homepages). It's really a unique experience, and if you like the sound of a nostalgic trip where you're a cyber detective, give this a look.
+
+---
+
+## The "Where have you been all my life?" award
+
+<div class="sub-info with-links-area">
+    <p>Deadly Premonition Origins (Switch)</p>
+    <div class="links-area">
+        <a href="https://www.game.co.uk/en/deadly-premonition-origins-collectors-edition-game-exclusive-2652974" title="Deadly Premonition Origins on Game.co.uk">
+            <svg class="icon link icon-sphere">
+                <use xlink:href="#icon-sphere"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<img src="/assets/img/horizon.jpg" class="post-thumbnail" alt="Horizon Zero Dawn screenshot">
+
+The reason for the title of this award is that Deadly Premonition originally came out in 2010, but the Switch port was released this year. And this year was the first time I ever heard of this game, alongside the announcement that a sequel would be released for Switch in the near future.
+
+An open-world survival horror game that was originally released to divisive opinions - some calling it janky as heck, or just plain bad (IGN infamously rated it 2/10). However it also gained a cult following and became a beloved series to many, including games critic <a href="https://www.youtube.com/user/JimSterling">Jim Sterling</a> (thank God for him). I'm a pretty big fan of his videos and I tend to find that I end up liking a lot of games he recommends, so when I heard him talking about Deadly Premonition, I was intrigued.
+
+Although I haven't actually played a ton of survival horror (Resident Evil kinda passed me by), I am a huge fan of horror, and creepy/weird stuff. Deadly Premonition absolutely has that in spades. I guess one of the main comparisons made is to Twin Peaks, although I've never actually watched that.
+
+You play as Special Agent Francis York Morgan, sent to the town of Greenvale to investigate a ritualistic serial killer.
+Gameplay-wise... yeah, it's not the best. There is some kinda repetitive zombie-shooting, that doesn't really fit with the rest of the game and feels a bit combat for combat's sake. Saying that, I still enjoyed those sections. I really didn't enjoy the bosses of which there were only a couple at the end of the game but they went on for flipping-ever. Also you drive a lot, and the driving kinda sucks.
+
+And yet this game become one of my favourite games of all time. There's something so damn special about it. The characters, the story, the tone.. it's delightfully dark and simultaneously joyful. I don't know, if any of this sounds intriguing, just give it a go. I can totally see how it's not everyone's cup of tea, but it left me with a FEEL, and it's the biggest feel I've had from a videogame this year. Maybe this decade.
+
+---
+
+## The "Most Stylish" award
+
+<div class="sub-info with-links-area">
+    <p>Dicey Dungeons (Windows, more platforms tbc)</p>
+    <div class="links-area">
+        <a href="http://store.steampowered.com/app/861540/Dicey_Dungeons/" title="Dicey Dungeons on Steam">
+            <svg class="icon link icon-steam">
+                <use xlink:href="#icon-steam"></use>
+            </svg>
+        </a>
+        <a href="https://terrycavanagh.itch.io/dicey-dungeons" title="Dicey Dungeons on itch.io">
+            <svg class="icon link icon-sphere">
+                <use xlink:href="#icon-sphere"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<img src="/assets/img/sexybrutale.jpg" class="post-thumbnail" alt="The Sexy Brutale packaging">
+
+I love quirky and unique art styles, roguelikes, and chiptunes, and Dicey Dungeons combines them all in one glorious package. "Roguelike" in this case meaning it's a game designed to have multiple "runs" - which may take an hour or two. Each run is different as you encounter different enemies and gain various equipment, essentially building your character a little differently each time. As you complete runs you unlock more characters and levels, adding variety to every time you play.
+
+Thematically, this game is wonderful - you are basically a dice who rolls dice, taking part in a gameshow along with Lady Luck, to battle all sorts of weird and wonderful enemies. One minute you'll be fighting a sneezy hedgehog, and the next minute a toasted marshmallow. (my personal favourite is "Vacuum", who our cat Cammy is very scared of in real life).
+
+Whenever I play this game I am constantly tapping along to the amazing tunes created by chiptune artist Chipzel (who also previously worked with designer Terry Cavanagh on Super Hexagon). This is a game I'm going to be dipping in and out of pretty often and it's one of my favourite games this year.
+
+---
+
+## 2 - Uncharted: The Lost Legacy
+
+<p class="sub-info">Platform: Playstation 4 • Developer: <a href="https://www.naughtydog.com/">Naughty Dog</a> • Released: August 2017</p>
+
+<img src="/assets/img/uncharted.jpg" class="post-thumbnail" alt="Uncharted: The Lost Legacy screenshot">
+
+Some of you reading may be familiar with the Uncharted series - it's a Playstation exclusive action-adventure / third-person shooter, and usually the series follows the escapades and adventures of lovable rogue Nathan Drake. I've always enjoyed the series for the historic treasure-hunting and sense of adventure, as well as the attention to detail in characters and scenes that we have come to expect from Naughty Dog. I was excited to hear that this potential Uncharted 4 DLC featuring not one but two female protagonists, was going to be released as a full game. Starring Chloe Frazer and Nadine Ross - both side characters in previous Uncharted games - this time at the forefront of the adventure. The game released at cheaper than the usual "full" Uncharted adventures, but felt very much like a full game in it's own right - I think I played it for about 30 hours. As well as the usual fun adventuring, and refinement of Uncharted's typical mechanics, this game did something great which was put women at the forefront - charismatic, strong, independent, don't-take-no-shit women at that, and focused on the relationship between them. Strong female friendships are something we need more of in video-games, and as well as that, the rest of the game was an amazing experience. Almost my game of the year!
+
+---
+
+## 1 - Thimbleweed Park
+
+<p class="sub-info">Platform: Microsoft Windows, macOS, iOS, Xbox One, PlayStation 4, Linux, Android, and Nintendo Switch (phew!) • Developer: <a href="https://en.wikipedia.org/wiki/Ron_Gilbert/">Ron Gilbert</a> and <a href="https://en.wikipedia.org/wiki/Gary_Winnick_(game_developer)">Gary Winnick</a> • Released: Various 2017</p>
+
+<img src="/assets/img/Thimbleweed-Park-Cover.jpg" alt="Thimbleweed Park cover">
+
+Thimbleweed Park is a game that captures the very essence of a LucasArts point-and-click classic adventure game. Hardly a surprise when the game was developed by the designers of Maniac Mansion and The Secret of Monkey Island, and is very much a spiritual successor to those games. The Secret of Monkey Island is possibly my favourite videogame ever, and I credit <a href="https://en.wikipedia.org/wiki/Ron_Gilbert/">Ron Gilbert</a> with being one of the reasons I am into videogames as much as I am today. If you ever wanted a game that felt today like playing Monkey Island felt back in the day, this is it.
+
+Graphically, it resembles an old point-and-click adventure, but clearly updated to feel like how you <em>remembered</em> those old-school adventures, with little details that make it visually a treat to look at, whilst still retro. It's humorous, with an intriguing Twin Peaks vibe. You switch between multiple characters - Maniac Mansion style, and investigate the mystery of Thimbleweed Park. In my opinion this game is the successor to Monkey Island that we've been waiting for for years (The Cave was good but not quite right, and 3d adventure games never quite felt the same to me). I may just be a massive Ron Gilbert fangirl, but Thimbleweed Park is a modern day classic point-and-click adventure. I loved it. <a href="http://store.steampowered.com/app/569860/Thimbleweed_Park/">Thimbleweed Park on Steam</a>.
+
+Also, a doodle of Delores I did - one of my favourite characters in the game :)
+
+<img src="/assets/img/delores.jpg" alt="Delores doodle">
