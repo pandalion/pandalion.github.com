@@ -1,0 +1,140 @@
+---
+layout: post
+title:  "My 2019 in games"
+date:   2020-01-05 16:50:00 +0000
+categories:
+    - videogames
+    - lists
+---
+
+Another year in gaming done. Sadly it looks like I forgot to make a post at the end of 2018 but regardless, let's pick up here! Rather than the conventional top 5 or 10 list, I decided to just pick out games based on the various ways that they brightened up my year. I also like to try and include a couple of (potentially) lesser-known picks that may not be on the obvious GOTY lists. Happy New Year, and I hope you enjoy the list!
+
+## The "Ultimate 90s Nostalgia Trip" award
+
+<div class="sub-info with-links-area">
+    <p>Hypnospace Outlaw (Windows/Linux/Mac)</p>
+    <div class="links-area">
+        <a href="https://store.steampowered.com/app/844590/Hypnospace_Outlaw/" title="Hypnospace Outlaw on Steam">
+            <svg class="icon link icon-steam">
+                <use xlink:href="#icon-steam"></use>
+            </svg>
+        </a>
+        <a href="http://hypnospace.net" title="Hypnospace Outlaw website">
+            <svg class="icon link icon-sphere">
+                <use xlink:href="#icon-sphere"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<img src="/assets/img/hypnospace-outlaw.jpg" class="post-thumbnail" alt="Hypnospace Outlaw screenshot">
+
+I'm not sure where to even begin describing Hypnospace Outlaw. The game is played through what is essentially a fictional web browser, and you play as an online "enforcer", who patrols the internet of an alternate-reality 1999. You will need to carry out various tasks and detective work to crack down on internet outlaws - hunting down viruses, bullying, or copyright infringement. Alongside this though, you are let loose to browse to your delight, partaking in some 90s internet delights such as virtual pets, gaudy gifs, and collecting awful desktop wallpapers.
+
+Using search terms or links between pages you can delve into the depths of this fictional internet, getting to know all the inhabitants of it as you go (and their MySpace-like homepages). It's really a unique experience, and if you like the sound of a nostalgic trip where you're a cyber detective, give this a look.
+
+---
+
+## The "Where have you been all my life?" award
+
+<div class="sub-info with-links-area">
+    <p>Deadly Premonition Origins (Nintendo Switch)</p>
+    <div class="links-area">
+        <a href="https://www.game.co.uk/en/deadly-premonition-origins-collectors-edition-game-exclusive-2652974" title="Deadly Premonition Origins on Game.co.uk">
+            <svg class="icon link icon-sphere">
+                <use xlink:href="#icon-sphere"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<img src="/assets/img/deadly-premonition.jpg" class="post-thumbnail" alt="Deadly Premonition screenshot">
+
+The reason for the title of this award is that <strong>Deadly Premonition</strong> originally came out in 2010, but the Switch port was released this year. And this year was the first time I ever heard of this game, alongside the announcement that a sequel would be released for Switch in the near future.
+
+An open-world survival horror game that was originally released to divisive opinions - some calling it janky as heck, or just plain bad (IGN infamously rated it 2/10). However it also gained a cult following and became a beloved series to many, including games critic <a href="https://www.youtube.com/user/JimSterling">Jim Sterling</a> (thank God for him). I'm a pretty big fan of his videos and I tend to find that I end up liking a lot of games he recommends, so when I heard him talking about Deadly Premonition, I was intrigued.
+
+Although I haven't actually played a ton of survival horror (Resident Evil kinda passed me by), I am a huge fan of horror, and creepy/weird stuff. Deadly Premonition absolutely has that in spades. I guess one of the main comparisons made is to Twin Peaks, although I've never actually watched that.
+
+You play as Special Agent Francis York Morgan, sent to the town of Greenvale to investigate a ritualistic serial killer.
+Gameplay-wise... yeah, it's not the best. There is some kinda repetitive zombie-shooting, that doesn't really fit with the rest of the game and feels a bit combat for combat's sake. Saying that, I still enjoyed those sections. I really didn't enjoy the bosses of which there were only a couple at the end of the game but they went on for flipping-ever. Also you drive a lot, and the driving kinda sucks.
+
+And yet this game become one of my favourite games of all time. There's something so damn special about it. The characters, the story, the tone.. it's delightfully dark and simultaneously joyful. I don't know, if any of this sounds intriguing, just give it a go. I can totally see how it's not everyone's cup of tea, but it left me with a FEEL, and it's the biggest feel I've had from a videogame this year. Maybe this decade.
+
+---
+
+## The "Most Stylish" award
+
+<div class="sub-info with-links-area">
+    <p>Dicey Dungeons (Windows, more platforms tbc)</p>
+    <div class="links-area">
+        <a href="http://store.steampowered.com/app/861540/Dicey_Dungeons/" title="Dicey Dungeons on Steam">
+            <svg class="icon link icon-steam">
+                <use xlink:href="#icon-steam"></use>
+            </svg>
+        </a>
+        <a href="https://terrycavanagh.itch.io/dicey-dungeons" title="Dicey Dungeons on itch.io">
+            <svg class="icon link icon-sphere">
+                <use xlink:href="#icon-sphere"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<img src="/assets/img/dicey-dungeons.jpg" class="post-thumbnail" alt="Dicey Dungeons screenshot">
+
+I love quirky and unique art styles, roguelikes, and chiptunes, and Dicey Dungeons combines them all in one glorious package. "Roguelike" in this case meaning it's a game designed to have multiple "runs" - which may take an hour or two. Each run is different as you encounter different enemies and gain various equipment, essentially building your character a little differently each time. As you complete runs you unlock more characters and levels, adding variety to every time you play.
+
+Thematically, this game is wonderful - you are basically a dice who rolls dice, taking part in a gameshow along with Lady Luck, to battle all sorts of weird and wonderful enemies. One minute you'll be fighting a sneezy hedgehog, and the next minute a toasted marshmallow. (my personal favourite is "Vacuum", who our cat Cammy is very scared of in real life).
+
+Whenever I play this game I am constantly tapping along to the amazing tunes created by chiptune artist Chipzel (who also previously worked with designer Terry Cavanagh on Super Hexagon). This is a game I'm going to be dipping in and out of pretty often and it's one of my favourite games this year.
+
+---
+
+## The "I actually want to replay this and I never replay anything" award
+
+<div class="sub-info with-links-area">
+    <p>Fire Emblem: Three Houses (Nintendo Switch)</p>
+    <div class="links-area">
+        <a href="https://www.nintendo.com/games/detail/fire-emblem-three-houses-switch/" title="Fire Emblem Three Houses on Nintendo.com">
+            <svg class="icon link icon-sphere">
+                <use xlink:href="#icon-sphere"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<img src="/assets/img/fire-emblem-three-houses.jpg" class="post-thumbnail" alt="Fire Emblem: Three Houses screenshot">
+
+This is probably a fairly well known game by now - especially if you're a Switch owner, but I had to mention it, as it probably takes the number one slot of my favourite game of last year. The title for this award is self explanatory, I basically never replay games - there are sooo many games I want to play, so as soon as I'm done with one I'm generally right onto the next. And that's not to say I complete all my games either! My first playthrough of Fire Emblem: Three Houses, lasted about..90 hours? And when I was done I instantly restarted it picking a new house! Which was, yeah, unusual for me.
+
+I didn't finish my second play-through in the end just because of the other games thing but... I loved this game so much, it's really a masterpiece. You play as a mysterious kid who becomes a professor at the Officer's Academy - a monastery/school comprised of well.. three houses of students. The game is described as a tactical role-playing game - you'll coach the students and then lead them into tactical turn-based battles. However, even if you're not usually a fan of tactical battles like this I would still recommend giving the game a go. I honestly didn't think I was huge on this style of gameplay before I played, but the game is so interesting in the way it is structured and so different from purely tactical games.
+
+The characters and the relationships you build with them is really at the heart of the game, along with the eventful and explosive story that you can view from three perspectives dependant on your choice of house. There are around 8 characters in each house, and other recruitable characters too, in total there are around 33 characters with unique personalities and fully voice acted who you can get to know, train and take into battle. You spend a lot of the game not in battle - you'll be exploring the monastery, chatting to students and teachers, cooking and eating with them, holding tea parties, or helping them find lost items. Honestly this bit of the game I found really delightful, and much more like an Animal Crossing slice-of-life sim.
+
+The game is split into seasons / months and at the end of a month you will have a battle (along with optional practice or side battles in the month), so you spend ages hanging out with these characters and then leading them into battle. For me, this is what made the battles so much more enjoyable and involved than I've ever found tactical battles to be. You don't just have units, you have friends. And because each battle is broken up with the downtime of hanging out in between, there's never long enough to get sick of one type of gameplay. You'll also feel the effects of battle on your personal relationships with students - for example if you fight next to somebody in battle, your bond will grow stronger with them and you'll unlock more conversations and cut-scenes, where you get to know the character even better.
+
+I feel like this is one of those games that is really like no other in the way it combines genres and the result is a simply amazing game in my opinion.
+
+---
+
+## Honorable mentions of the year
+
+* **Dragon Quest Builders 2** - even better than the first by miles, more to explore, more to build, very cute and addictive.
+* **A Plague Tale: Innocence** - a very beautiful action-adventure/stealth game from French studio Asobo. You play as Amicia who guides her young brother Hugo on a tense and dangerous journey. Lots of creepy rats and lots of heart.
+* **Disco Elysium** - the very last game I played this year, spending 33 hours in the week after Christmas to delve deep into this crazily deep and immersive RPG. A gorgeous narrative-driven game with a haunting soundtrack by British Sea Power. Very funny, engrossing and affecting.
+* **Blackwell series** - these point and click games didn't come out in 2019 but I worked my way through the whole series this year, created by the amazing Wadjet Eye Games.
+* **Metro Exodus** - I picked this up in the January sales and so far I am loving this apocalyptic first-person shooter, the characters are great, the story is interesting, and the UI and systems are minimalistic and fun. Also I HAVE A TRAIN.
+
+## What I want to play in 2020
+
+* The Last of Us 2 at laaaaast!
+* Animal Crossing: New Horizons
+* Hades
+* More Dicey Dungeons
+* Uncharted 4 which I also picked up in the sales
+* More Wadjet Eye point and click games because they are great
+* Is Ooblets coming out yet?
+* More games I probably forgot
+
+Thanks for reading! Until next time.

@@ -43,8 +43,8 @@
     .post-main-page &
         padding: 5px $spacing-unit
 
-    @include media($media-width-medium)
-        padding: 5px ($spacing-unit / 2) 5px $spacing-unit
+        @include media($media-width-medium)
+            padding: 5px ($spacing-unit / 2) 5px $spacing-unit
 
 .post-meta
     display: block
@@ -117,6 +117,10 @@
     @include media($media-width-medium)
         font-size: 20px
 
+.go-back
+    @include media($media-width-medium)
+        margin-top: $spacing-unit
+
 .tag
     background: $bg-color
     font-size: 14px
@@ -145,3 +149,25 @@
         background-color: $bg-color
         padding: 20px
         margin-top: 20px
+
+        &.with-links-area
+            @include flexbox
+            @include justify-content(space-between)
+            @include align-items(center)
+
+    .links-area
+        @include flexbox
+        margin-top: 0
+
+        a
+            @include flexbox
+
+            + a
+                margin-left: 15px
+
+            &::after
+                content: none
+
+        .icon
+            width: 20px
+            height: 20px
