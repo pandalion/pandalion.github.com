@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Panda Plays Games - a blog about videogames because I like them</title>
+        <title>
+            {% if page.layout == 'post' or page.layout == 'general' %}
+                {{ page.title }} |
+            {% endif %}
+            Panda Plays Games - a blog about videogames because I like them
+        </title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- turn off telephone number detection in safari -->
