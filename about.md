@@ -8,7 +8,7 @@ Hi, I'm Panda - a front-end developer, avid videogame enthusiast, occasional doo
 
 I'm currently part of the awesome digital team at [Open Health](https://www.openhealth.co.uk/).
 
-If you'd like to get in touch, you can reach me at thepandalion @ gmail dot com. You can also find me on [twitter](http://www.twitter.com/thepandalion) or [github](http://www.github.com/thepandalion).
+If you'd like to get in touch, you can reach me at thepandalion @ gmail dot com. You can also find me on [twitter](http://www.twitter.com/thepandalion) or [github](http://www.github.com/pandalion).
 
 ### Friends
 
