@@ -43,8 +43,8 @@
     .post-main-page &
         padding: 5px $spacing-unit
 
-    @include media($media-width-medium)
-        padding: 5px ($spacing-unit / 2) 5px $spacing-unit
+        @include media($media-width-medium)
+            padding: 5px ($spacing-unit / 2) 5px $spacing-unit
 
 .post-meta
     display: block
@@ -116,6 +116,10 @@
 
     @include media($media-width-medium)
         font-size: 20px
+
+.go-back
+    @include media($media-width-medium)
+        margin-top: $spacing-unit
 
 .tag
     background: $bg-color
