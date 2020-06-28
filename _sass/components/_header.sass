@@ -79,7 +79,7 @@
         @include media($media-width-medium)
             padding-right: 0
             max-width: 100%
-            margin-top: $spacing-unit
+            margin-top: $spacing-unit / 2
             order: 2
 
     p
@@ -93,15 +93,13 @@
             max-width: 100%
 
 .panda
-    $size: 180px
-    $size-small: 150px
+    $width: 180px
+    $height: 157px
     @include flex-shrink(0)
-    background-color: white
-    background-image: url('../img/games.jpg')
+    background-image: url('../img/pandalion-by-zenibuka.png')
     background-size: cover
-    border-radius: 100%
-    width: $size / 2
-    height: $size / 2
+    width: $width / 1.8
+    height: $height / 1.8
     order: 2
 
     &:hover
@@ -109,15 +107,18 @@
             content: none
 
     @include media($media-width-medium)
-        width: $size-small
-        height: $size-small
+        width:  $width / 1.8
+        height:  $height / 1.8
         margin: 0 auto
         margin-right: -2px
         order: 1
 
     @include media($media-width-medium)
-        width: $size
-        height: $size
+        width: $width
+        height: $height
+
+    @include media($media-width-large)
+        margin-right: -28px
 
 .header-wrapper
     @include flexbox

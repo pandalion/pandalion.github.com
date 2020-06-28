@@ -66,6 +66,15 @@ h3
             li + li
                 margin-top: 10px
 
+.subtitle
+    $sub-size: 21px
+    font-size: $sub-size / 1.3
+    color: lighten($copy-color, 40%)
+    margin-top: 16px
+
+    @include media($media-width-medium)
+        font-size: $sub-size
+
 a
     text-decoration: none
     color: $theme-color

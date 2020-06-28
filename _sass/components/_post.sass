@@ -16,12 +16,12 @@
         margin-top: $spacing-unit
 
 .post-body
-    a
-        color: $theme-color
-
     p,
     li
-        font-size: 1rem
+        font-size: 0.95rem
+
+        @include media($media-width-small)
+            font-size: 1rem
 
         @include media($media-width-medium)
             font-size: 1.05rem
@@ -145,12 +145,19 @@
         @include media($media-width-medium)
             font-size: 30px
 
+    h2.subtitle
+        font-size: 20px
+
+        @include media($media-width-medium)
+            font-size: 24px
+
     .sub-info
         background-color: $bg-color
         padding: 20px
         margin-top: 20px
 
-        &.with-links-area
+        &.with-links-area,
+        &.flex-bookend-row
             @include flexbox
             @include justify-content(space-between)
             @include align-items(center)

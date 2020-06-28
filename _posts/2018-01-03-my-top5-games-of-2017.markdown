@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My top 5 games of 2017"
+subtitle: "This year's picks"
 date:   2018-01-03 16:27:45 +0000
 categories:
     - videogames
