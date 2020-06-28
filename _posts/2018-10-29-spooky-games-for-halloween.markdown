@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Spooky games for Halloween"
+subtitle: "When gaming is creepy"
 date:   2018-10-29 22:00:00 +0000
 categories: videogames
 ---

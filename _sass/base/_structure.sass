@@ -66,3 +66,17 @@ body
         text-align: right
         padding: 0
         padding-top: $spacing-unit
+
+.callout
+    background-color: rgba($theme-color, 0.15)
+    padding: 25px 30px
+
+    + p
+        margin-top: $spacing-unit / 2
+        @include media($media-width-large)
+            margin-top: $spacing-unit
+
+    a,
+    a:hover,
+    a:visited
+        color: darken($theme-color, 15%)
